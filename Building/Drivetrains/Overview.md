@@ -80,7 +80,7 @@ The _Best_ way to power your drivetrain is with gears. Gears give you utmost con
 ### Joints:
 Typically your drivetrain should have 4,6 or 8 joints depending on how many wheels you have. The spacing on these joints is pretty forgiving as far as tolerances go.
 
-- ### Consider This:
+- **Consider This:**
   - chain/gears and the wheel should not scrape against side c channels
   - spacing should not be too tight → creates unnecessary friction
   - A good rule of thumb with joint spacing is that you should leave a gap big enough to stick your fingernail in
@@ -90,5 +90,3 @@ Typically your drivetrain should have 4,6 or 8 joints depending on how many whee
 Another important part of the joint is that both the sprocket and wheel need to be locked to the rotation of the shaft, using square inserts. This way the motor is able to transfer its rotational motion through the shaft into the wheel and sprocket. Try to avoid using old omni wheels or sprockets that have plastic square inserts because those tend to wear out and let the sprocket or wheel wiggle against the shaft. 
 
 Another hugely important part of joints is what the joint is spinning on. In many cases, including this one, that thing is a bearing flat. Bearing flats provide a smooth, round hole for the shaft to spin in. Without the bearing, the square shaft will be pressed and ground against the square hole, which will eat away at the metal and create huge amounts of friction. The shaft should never come into contact with the c channels at any point.
-
-### end
