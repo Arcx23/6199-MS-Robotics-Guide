@@ -10,4 +10,4 @@
 ## Plan in CAD or use a very detailed drawing
 - This drawing/CAD should be accessible to your whole team. All members have to understand the idea and how to build it. This design should not just be a size marker, it should contain where the wheels, motors, and gears go. It should detail where structure goes and how metals are going to be joined and how to properly support the drivetrain to not tilt. CADing screw by screw, while tedious, will eradicate 90%+ of issues that could appear in the future. Although you can cad in less detail (no connectors, screws, joints, etc) it will only serve as a “blueprint” or 3d plan for the robot. 
 ## Continue to next sections:
-### [How to CAD](https://github.com/Arcx23/6199-MS-Robotics-Guide/blob/main/Planning/Cadding.md), [How to Build](Building.md)
+### [How to CAD](https://github.com/Arcx23/6199-MS-Robotics-Guide/blob/main/CAD/Basic_Steps.md), [How to Build](Building.md)
