@@ -13,8 +13,9 @@ If you have any questions/further issues: You can contact one of us Enpeng Jiang
 # Videos:
 - [Step by Step Cadding a Simple Drivetrain](https://drive.google.com/file/d/15YNamQJwriS7e753XB4Z8V8ZBt-ll3Hs/view?usp=sharing)
 # Table of Contents:
+- ## CAD
+  - [Cadding](CAD/Basic_Steps.md)
 - ## Planning
-  - [Cadding](Planning/Cadding.md)
 - ## Robot Systems
   - [Drivetrains: A Must Build ](Building/Drivetrains/README.md)
     - [Start Here](Building/Drivetrains/README.md)
