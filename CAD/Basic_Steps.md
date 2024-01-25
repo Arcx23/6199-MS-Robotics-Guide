@@ -13,7 +13,7 @@
 - This is a very important step as enpeng couldn't do this.
 - I also dont know how you do this
 >[!CAUTION]
->**downloading library steps coming soon!!!!**
+>downloading library steps coming soon!!!!
 ### 2. Inserting Pieces
 - Start by going to the assemblies tab at the bottom of your document
 - <img width="598" alt="Screenshot 2024-01-24 at 3 57 47 PM" src="https://github.com/Arcx23/MS-Robotics-Guide/assets/132633896/0b7c585b-b780-4198-8984-877fa654502c">
