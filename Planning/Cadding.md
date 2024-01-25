@@ -12,10 +12,7 @@
 > Use westminster.onshape.com
 - This is a very important step as enpeng couldn't do this.
 - I also dont know how you do this
-### 2. Plan your wheel, motor, and gear layout
-- Decide how long you want your drivetrain to be. What gear ratio you will use? How will the wheels, gears, axles, etc fit together?
-  - This can either be done using physical materials or in onshape 
-### 3. Inserting Pieces
+### 2. Inserting Pieces
 - Start by going to the assemblies tab at the bottom of your document
 - <img width="598" alt="Screenshot 2024-01-24 at 3 57 47 PM" src="https://github.com/Arcx23/MS-Robotics-Guide/assets/132633896/0b7c585b-b780-4198-8984-877fa654502c">
 - Click on the insert button.
@@ -29,7 +26,7 @@
 - Press the green check mark
 - <img width="598" alt="Screenshot 2024-01-24 at 4 01 01 PM" src="https://github.com/Arcx23/MS-Robotics-Guide/assets/132633896/8fa45a06-a5b0-4530-a34f-3a16c4f1d712">
 - Done!!
-### 4. Rotating and Transforming Pieces
+### 3. Rotating and Transforming Pieces
 - Click on the part you want to move. (Note: grouped or fastned parts move together.)
 - <img width="598" alt="Screenshot 2024-01-24 at 4 02 20 PM" src="https://github.com/Arcx23/MS-Robotics-Guide/assets/132633896/03cb30d2-1d75-4e73-b7de-1ceaebc30e05">
 - Select the circles with lines to rotate or arrows to move the piece.
@@ -39,7 +36,7 @@
   - <img width="598" alt="Screenshot 2024-01-24 at 4 03 05 PM" src="https://github.com/Arcx23/MS-Robotics-Guide/assets/132633896/05c94ec9-fcb6-4b47-b32c-ef0cc9979aeb">
   - You can also use the squares to move the piece around freely with your cursor.
   - <img width="602" alt="Screenshot 2024-01-24 at 4 05 38 PM" src="https://github.com/Arcx23/MS-Robotics-Guide/assets/132633896/5032f714-f382-407c-91d3-1b715af39c35">
-### 5. Fastening Two Pieces
+### 4. Fastening Two Pieces
 - After inserting at least two pieces, select the fasten tool to fasten them.
 - <img width="602" alt="Screenshot 2024-01-24 at 4 05 59 PM" src="https://github.com/Arcx23/MS-Robotics-Guide/assets/132633896/1936dfd5-db8f-4927-997e-2abb5014c893">
 - Move your cursor over the piece you want to move. When the white circles appear, hold the shift key.
