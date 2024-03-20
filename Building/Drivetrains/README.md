@@ -1,6 +1,6 @@
 # Drivetrains: A Must Build - see Troubleshooting for issues 
 > [!IMPORTANT]
-> ### Read [Overview](Overview.md) to understand how a drivetrain works
+> Read [Overview](Overview.md) to understand how a drivetrain works### 
 ## State your intentions (what do you need to do for this years game)
 - Your team should plan what the goal of the robot is and how the design should complement and make the goal possible. Think about supports (which type, layout (top/bottom), parts/components), motors (green/blue), gear ratios (gear down/gear up)
 -  How long do you want your drivetrain to be? What gear ratio you will use? How will the wheels, gears, axles, etc fit together?
