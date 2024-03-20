@@ -1,4 +1,4 @@
-# Drivetrains: A Must Build - see Troubleshooting for issues 
+# Drivetrains - See Troubleshooting for Issues 
 > [!IMPORTANT]
 > Read [Overview](Overview.md) to understand how a drivetrain works### 
 ## State your intentions (what do you need to do for this years game)
