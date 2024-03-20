@@ -8,10 +8,9 @@
 [Moving](https://github.com/Arcx23/MS-Robotics-Guide/blob/main/Planning/Cadding.md#4-rotating-and-transforming-pieces)
 [Fastening](https://github.com/Arcx23/MS-Robotics-Guide/blob/main/Planning/Cadding.md#5-fastening-two-pieces)
 ### 1. Log in to CAD software and download library
-> [!TIP]
-> Use westminster.onshape.com
 - This is a very important step as enpeng couldn't do this.
 - I also dont know how you do this
+- Use westminster.onshape.com
 >[!CAUTION]
 >downloading library steps coming soon!!!!
 ### 2. Inserting Pieces
